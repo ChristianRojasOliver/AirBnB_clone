@@ -1,4 +1,5 @@
-# 0x01. AirBnB clone - Web static
+0x01. AirBnB clone - Web static
+#![hbnb_step1](https://user-images.githubusercontent.com/73666965/142947774-3806ef21-7b84-4e68-8eb8-85a69278a637.png)
 Background Context
 Web static, what?
 
